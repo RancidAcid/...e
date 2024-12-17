@@ -1,0 +1,2 @@
+todo-- add a humanizer on the script
+todo-- add a way to custom the coordinates of the key presses on the gui but add config option and config 1 is the default and cannot be changed at all

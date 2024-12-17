@@ -1,0 +1,4 @@
+# This script automates a 4-key rhythm game by detecting specific colors on the screen and simulating key presses.
+# It uses the dxcam library to capture a specific area of the screen and checks for target colors at predefined coordinates.
+# When a target color is detected, the corresponding key is pressed. 
+#*its based on the game Friday night funkin
